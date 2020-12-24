@@ -28,7 +28,7 @@ I'm a highly motivated and passionate Data Scientist whose dream is to use my ta
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-server-8-qualified.png" />][website]
+[<img align="left" alt="Terminal" width="40px" src="https://www.freepngdesign.com/content/uploads/images/tableau-software-5070.png" />][website]
 
 <br />
 <br />
