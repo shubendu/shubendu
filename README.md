@@ -1,21 +1,17 @@
 <a href="https://shubendu.netlify.app/" rel="some text">![FOO](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)</a>
 
 
-## Python Programmer
+## My Goals?
 
-- I Use Python to Automate Stuff
-- Deep Learning and Machine Learning Practitioner
-- Always looking to contribute to Open Source
-- Create APIs with Flask [Check this][website]
-- Trying to integrate Machine Learning with Cricket
+I'm a highly motivated and passionate Data Scientist whose dream is to use my talents in machine learning/AI and deep learning to solve real-world problems and make the customer achieve more..
 
 
 ### Connect with me:
 
-[<img align="left" alt="shubendu.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://shubendu.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shubendu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shubendu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shubendu | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][My Blog]
+[<img align="left" alt="shubendu | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />]
 
 
 <br />
@@ -47,14 +43,4 @@
 <!--
 **shubendu/shubendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
