@@ -1,7 +1,5 @@
-###  👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-###  [website] 
-![shubendu.netlify.app](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+ ![shubendu.netlify.app](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)
+<a href="http://www.shubendu.netlify.app" rel="some text">![website](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)</a>
 
 
 ## Python Programmer
