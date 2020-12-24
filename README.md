@@ -1,5 +1,4 @@
- ![shubendu.netlify.app](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)
-<a href="http://www.shubendu.netlify.app" rel="some text">![website](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)</a>
+<a href="https://shubendu.netlify.app/" rel="some text">![FOO](https://github.com/shubendu/Extra_Files/blob/main/pp.jpg)</a>
 
 
 ## Python Programmer
