@@ -18,9 +18,26 @@ I'm a highly motivated and passionate Data Scientist whose dream is to use my ta
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 
-[<img align="left" alt="HTML5" width="40px" src="https://miro.medium.com/max/4000/0*4Z6mwORGhtSAgeQ2.png"/>][website]
+[<img align="left" alt="HTML5" width="50px" src="https://miro.medium.com/max/4000/0*4Z6mwORGhtSAgeQ2.png"/>][website]
+
+[<img align="left" alt="HTML5" width="50px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png"/>][website]
+
+[<img align="left" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"/>][website]
+
+[<img align="left" alt="HTML5" width="50px" src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png"/>][website]
+
+[<img align="left" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>][website]
+
+[<img align="left" alt="HTML5" width="50px" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"/>][website]
+
+[<img align="left" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>][website]
+
+
+
+
+
 
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
