@@ -11,7 +11,7 @@ I'm a highly motivated and passionate Data Scientist whose dream is to use my ta
 [<img align="left" alt="https://shubendu.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shubendu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shubendu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shubendu | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />]
+[<img align="left" alt="shubendu | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blog]
 
 
 <br />
@@ -34,10 +34,10 @@ I'm a highly motivated and passionate Data Scientist whose dream is to use my ta
 
 ---
 
-[website]: https://www.shubendu.netlify.app
+[website]: https://shubendu.netlify.app/
 [twitter]: https://twitter.com/BiswasShubendu
-[linkedin]:https://www.linkedin.com/in/shubendubiswas/
-[blog]:https://shubendu.github.io/
+[linkedin]: https://www.linkedin.com/in/shubendubiswas/
+[blog]: https://shubendu.github.io/
 
 
 <!--
